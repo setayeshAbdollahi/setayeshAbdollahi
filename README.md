@@ -1,54 +1,66 @@
-👋 Hi, I'm Setayesh
+# Hi, I'm Setayesh Abdollahi 👋
 
-AI Engineer
-Computer Vision | Deep Learning | NLP
+AI Engineer focused on **Computer Vision, Deep Learning, and Intelligent Systems**.
 
+I am interested in developing AI solutions that combine research-driven methods with real-world software engineering.
 
-🧠 Research Interests
+---
+
+## 🧠 Research Interests
 
 - Computer Vision
+- Medical AI & Image Analysis
+- Self-Supervised Learning
 - Multimodal Learning
-- Medical AI
-- NLP
+- Natural Language Processing
+- Deep Learning Systems
 
+---
 
-🛠 Tech Stack
+## 🛠️ Technical Skills
 
-AI:
-PyTorch
-OpenCV
-Transformers
+### Artificial Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-Development:
-Python
-React
-FastAPI
-Docker
+### Software Engineering
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
+### 🧬 FluoSSL
+Self-supervised learning framework for calcium imaging denoising and representation learning.
 
+### 🖐 SIRGE
+Hierarchical deep learning approach for gesture recognition.
 
+### ❤️ ECG Digitizer
+AI-based ECG image processing and signal reconstruction pipeline.
 
-📊 GitHub Statistics
+### 🛒 EshopApp
+Clean Architecture based e-commerce backend system using ASP.NET Core.
 
+---
 
-📫 Contact
-LinkedIn : https://www.linkedin.com/in/setayesh-abdollahi-790b30348/
-Email : Setayeshabdollahi5@gmail.com
+## 📊 GitHub Statistics
 
-<!--
-**setayeshAbdollahi/setayeshAbdollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=setayeshAbdollahi&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshAbdollahi&layout=compact&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact
+
+LinkedIn:
+https://www.linkedin.com/in/setayesh-abdollahi-790b30348/
+
+Email:
+setayeshabdollahi5@gmail.com
