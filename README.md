@@ -35,14 +35,14 @@ I am interested in developing AI solutions that combine research-driven methods 
 
 ## 🚀 Featured Projects
 
+### 🦷 OPG Dental Image Analysis
+Deep learning-based analysis of panoramic dental X-ray images for medical image understanding.
+
 ### 🧬 FluoSSL
-Self-supervised learning framework for calcium imaging denoising and representation learning.
+Self-supervised deep learning framework for calcium imaging denoising and representation learning.
 
 ### 🖐 SIRGE
-Hierarchical deep learning approach for gesture recognition.
-
-### ❤️ ECG Digitizer
-AI-based ECG image processing and signal reconstruction pipeline.
+Hierarchical deep learning system for robust hand gesture recognition.
 
 ### 🛒 EshopApp
 Clean Architecture based e-commerce backend system using ASP.NET Core.
