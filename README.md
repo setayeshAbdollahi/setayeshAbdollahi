@@ -1,6 +1,6 @@
 # Hi, I'm Setayesh Abdollahi 👋
 
-AI Engineer focused on **Computer Vision, Deep Learning, and Intelligent Systems**.
+AI Engineer specializing in Computer Vision, Deep Learning, and Medical AI, with interests in intelligent systems and real-world AI applications.
 
 I am interested in developing AI solutions that combine research-driven methods with real-world software engineering.
 
