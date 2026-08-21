@@ -52,11 +52,12 @@ Clean Architecture based e-commerce backend system using ASP.NET Core.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=setayeshAbdollahi&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setayeshAbdollahi&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshAbdollahi&layout=compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=setayeshAbdollahi&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=setayeshAbdollahi&theme=github_dark" />
 </p>
 
 ---
