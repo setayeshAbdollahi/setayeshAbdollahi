@@ -36,7 +36,7 @@ I am interested in developing AI solutions that combine research-driven methods 
 ## 🚀 Featured Projects
 
 ### 🦷 OPG Dental Image Analysis
-Deep learning-based analysis of panoramic dental X-ray images for medical image understanding.
+Deep learning-based analysis of panoramic dental X-ray images for medical image analysis and understanding.
 
 ### 🧬 FluoSSL
 Self-supervised deep learning framework for calcium imaging denoising and representation learning.
