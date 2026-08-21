@@ -1,4 +1,42 @@
-## Hi there 👋
+👋 Hi, I'm Setayesh
+
+AI Engineer
+Computer Vision | Deep Learning | NLP
+
+
+🧠 Research Interests
+
+- Computer Vision
+- Multimodal Learning
+- Medical AI
+- NLP
+
+
+🛠 Tech Stack
+
+AI:
+PyTorch
+OpenCV
+Transformers
+
+Development:
+Python
+React
+FastAPI
+Docker
+
+
+🚀 Featured Projects
+
+
+
+
+📊 GitHub Statistics
+
+
+📫 Contact
+LinkedIn : https://www.linkedin.com/in/setayesh-abdollahi-790b30348/
+Email : Setayeshabdollahi5@gmail.com
 
 <!--
 **setayeshAbdollahi/setayeshAbdollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
